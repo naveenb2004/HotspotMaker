@@ -6,16 +6,6 @@ The Hotspot Maker, made for use with Windows Operating System to start and stop 
 This programe is coded with Batch scripts (CLI) & Java (GUI). I'm learning about those programming languages and also I have some knowledge more than a beginer for that.
 I hope you will try this out!
 
-### **CLI**
-- Package Name: Hotspot Maker
-- Coded By: Naveen Balasooriya
-- Website: https://sites.google.com/view/naveenb2004
-- Text Editor: VS Code (https://code.visualstudio.com)
-- Cloud Web Request Store: Pastebin (https://pastebin.com/u/naveenb2004)
-- Cloud Updates Store: Google Drive (https://shorturl.at/mxHZ9)
-- Launcher EXE Converter: Bat2EXE Converter (https://shorturl.at/ekoKS)
-- Full Version EXE Packed: Inno Setup (https://jrsoftware.org/isinfo.php)
-
 ### **GUI**
 - Package Name: Hotspot Maker
 - Coded By: Naveen Balasooriya
